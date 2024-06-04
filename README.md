@@ -9,9 +9,7 @@ This project provides a visually guided dashboard experience using Shepherd.js (
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+ React, Redux, TailwindCSS  Node, Express , Shepherd.js , intro.js 
 
 
 ## Screenshots
@@ -92,21 +90,6 @@ Start the server
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
 
 
 ## Badges
