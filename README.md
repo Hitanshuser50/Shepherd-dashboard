@@ -17,7 +17,8 @@ This project provides a visually guided dashboard experience using Shepherd.js (
 ## Screenshots
 
 ![App Screenshot](![image](https://github.com/Hitanshuser50/Shepherd-dashboard/assets/122915291/1112996e-7899-469a-bf01-77c33698f711))
-
+![App Screenshot](![image](![Screenshot 2024-06-04 124025](https://github.com/Hitanshuser50/Shepherd-dashboard/assets/122915291/e66ddac0-e2c8-4fa0-a76b-30785111e3ac)
+))
 
 Installation
 
